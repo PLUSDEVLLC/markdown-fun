@@ -1,6 +1,13 @@
 # markdown-fun
 Fun markdown things you can do in Github
 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+```md
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+```
+
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 ```md
@@ -27,11 +34,4 @@ Fun markdown things you can do in Github
 ```md
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
-```
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-```md
-> [!TIP]
-> Helpful advice for doing things better or more easily.
 ```
