@@ -1,6 +1,13 @@
 # markdown-fun
 Fun markdown things you can do in Github
 
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+```md
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+```
+
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
 ```md
