@@ -15,13 +15,6 @@ Fun markdown things you can do in Github
 > Key information users need to know to achieve their goal.
 ```
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-```md
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-```
-
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
 ```md
@@ -34,4 +27,11 @@ Fun markdown things you can do in Github
 ```md
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+```
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+```md
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 ```
